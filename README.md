@@ -2,7 +2,7 @@
 
 > **540P $0.04; default $0.08; 720P $0.08** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-e37d66)** · **[Get an API key](https://go.apimart.ai/k-4424d6)**
 
 Everything here refers to **viduq3** — also written **viduq3** or **viduq3**.
 
