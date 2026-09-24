@@ -1,0 +1,15 @@
+{
+  "repo": "viduq3-api",
+  "model": "viduq3",
+  "display": "Vidu Q3",
+  "variant": "api",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_second",
+  "tiers": {
+    "540P": 0.04,
+    "default": 0.08,
+    "720P": 0.08,
+    "1080P": 0.1
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
